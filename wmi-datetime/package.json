@@ -1,0 +1,50 @@
+{
+  "_from": "wmi-datetime",
+  "_id": "wmi-datetime@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-VpxuXc0/XcxfZB3w5d0D/S70Yf4=",
+  "_location": "/wmi-datetime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wmi-datetime",
+    "name": "wmi-datetime",
+    "escapedName": "wmi-datetime",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wmi-datetime/-/wmi-datetime-1.0.3.tgz",
+  "_shasum": "569c6e5dcd3f5dcc5f641df0e5dd03fd2ef461fe",
+  "_spec": "wmi-datetime",
+  "_where": "C:\\Users\\asolomon\\Documents\\wmi-datetime-new",
+  "author": {
+    "name": "Adam Solomon and Trevor Manne"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This package is intended to simplify converting from and to acceptable WMI date formats.",
+  "keywords": [
+    "date",
+    "time",
+    "format",
+    "convert",
+    "wmi",
+    "windows",
+    "management",
+    "instrumentation",
+    "datetime"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wmi-datetime",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
